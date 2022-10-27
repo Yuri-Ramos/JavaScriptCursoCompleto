@@ -29,6 +29,11 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - CSS
 - JavaScript
 - Node.js
+- Firebase
+- Postman
+- Npm
+- PdfJs
+- Cloud FireStorage
 
 ---  
 
