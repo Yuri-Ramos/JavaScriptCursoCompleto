@@ -3,7 +3,7 @@
 Este repositorio é um apendece do curso completo de JavaScript 
 "JavaScript do 0 ao Avançado, crie um WhatsApp e Dropbox Clone com Node JS, Express JS, Socket IO, Firebase, Webpack e +!"
 onde está sendo feito em paralelo a Disciplina de JavaScript e desenvolvimento Web do Serratec
-## FrontEnd Essencial Serratec
+## Desenvolvimento Web Serratec
 
 Disciplina Desenvolvimento Web - serratec
 
